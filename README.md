@@ -23,7 +23,7 @@ Aucun prérequis particulier. Ce projet est uniquement basé sur HTML, CSS, et J
    git clone https://github.com/votre_nom_utilisateur/audio-visualizer.git
    ```
 
-2. Ouvrez le fichier `index.html` dans votre navigateur pour lancer l'application.
+2. Dans VsCode, Ouvrez le fichier `index.html` avec l'option open with live server.
 
 ### Structure du Projet
 
