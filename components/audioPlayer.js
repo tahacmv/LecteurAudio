@@ -11,8 +11,9 @@ class AudioPlayer extends HTMLElement {
     this.audioFiles = [
       "../data/audio1.mp3",
       "../data/audio2.mp3",
-      "../data/audio3.mp3",
+      "../data/audio3.mp3"
     ];
+    
     this.currentIndex = 0; // Start with the first audio file
 
     this.shadowRoot.innerHTML = `
